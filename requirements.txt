@@ -68,7 +68,6 @@ pymongo
 pyOpenSSL
 pyserial
 pytesseract
-python-apt
 python-dateutil
 python-debian
 python-dotenv
