@@ -91,7 +91,6 @@ ssh-import-id
 systemd-python
 tabulate
 traitlets
-Twisted
 ufw
 unattended-upgrades
 urllib3
