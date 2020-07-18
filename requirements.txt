@@ -2,3 +2,8 @@ django
 gunicorn
 django-heroku
 pymongo
+os
+bcrypt
+bson.json_util
+bson.objectid
+flask
