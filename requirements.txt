@@ -21,7 +21,6 @@ cryptography
 decorator
 distro-info
 Django
-dlib
 dnspython
 easytello
 email-validator
