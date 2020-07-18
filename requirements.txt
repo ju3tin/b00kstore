@@ -46,7 +46,6 @@ jsonschema
 jupyter-core
 keyring
 keyrings.alt
-language-selector
 lxml
 MarkupSafe
 netifaces
