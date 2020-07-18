@@ -13,7 +13,6 @@ cffi
 chardet
 click
 colorama
-command-not-found
 configobj
 configparser
 constantly
