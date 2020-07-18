@@ -93,7 +93,6 @@ traitlets
 urllib3
 virtualenv
 virtualenv-clone
-watson-developer-cloud
 webdriver-manager
 webencodings
 websocket-client
