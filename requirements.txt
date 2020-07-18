@@ -61,7 +61,6 @@ pyasn1
 pyasn1-modules
 pycparser
 pycrypto
-pygobject
 PyJWT
 pymongo
 pyOpenSSL
